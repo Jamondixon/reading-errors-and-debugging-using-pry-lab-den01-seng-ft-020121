@@ -2,7 +2,7 @@
 require 'pry'
 
 def star_date
-  
+
   (sum(100000) + 400000) / 10.0
 end
 
